@@ -1,0 +1,15 @@
+{
+  "name": "chakram-api-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/ --timeout 90000  --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chakram": "^1.5.0",
+    "mocha": "^10.6.1"
+  }
+}
